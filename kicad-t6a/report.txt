@@ -1,0 +1,53 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J1:FM4DD:PMODPinSocket_2x06_P2.54mm_Horizontal'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'U1:Package_SO:SOIC-8_5.23x5.23mm_P1.27mm'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J2:FM4DD:PMODHeader_2x06_P2.54mm_Horizontal'.
+Info: Processing symbol 'H1:FM4DD:SMD_TOOLING_HOLE_1.152mm'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile'.
+Info: Processing symbol 'L1:FM4DD:KiCad-Logo2_5mm_SilkScreen'.
+Info: Processing symbol 'H2:FM4DD:SMD_TOOLING_HOLE_1.152mm'.
+Info: Processing symbol 'TP1:FM4DD:Testpoint_PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'H3:FM4DD:SMD_TOOLING_HOLE_1.152mm'.
+Info: Processing symbol 'TP2:FM4DD:TestPoint_PinHeader_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Updated C1 properties.
+Updated C2 properties.
+Updated C3 properties.
+Updated H1 properties.
+Add net unconnected-(U1-Pad7).
+Updated H2 properties.
+Connected U1 pin 7 to unconnected-(U1-Pad7).
+Updated H3 properties.
+Connected U1 pin 8 to +3V3.
+Updated J1 properties.
+Updated J2 properties.
+Updated L1 properties.
+Updated R2 properties.
+Updated R3 properties.
+Updated SW1 properties.
+Updated TP2 properties.
+Updated TP1 properties.
+Added U1 (footprint 'Package_SO:SOIC-8_5.23x5.23mm_P1.27mm').
+Changed REF** reference designator to U1.
+Changed U1 value from SOIC-8_5.23x5.23mm_P1.27mm to ATECC508A.
+Updated U1 symbol association from  to /f2eb82bf-7622-435a-8d7b-bf1dafc22cf6.
+Updated U1 properties.
+Add net unconnected-(U1-Pad1).
+Connected U1 pin 1 to unconnected-(U1-Pad1).
+Add net unconnected-(U1-Pad2).
+Connected U1 pin 2 to unconnected-(U1-Pad2).
+Add net unconnected-(U1-Pad3).
+Connected U1 pin 3 to unconnected-(U1-Pad3).
+Connected U1 pin 4 to GND.
+Connected U1 pin 5 to /SDA.
+Connected U1 pin 6 to /SCL.
+Warning: No net found for symbol H1 pin 1.
+Warning: No net found for symbol H2 pin 1.
+Warning: No net found for symbol H3 pin 1.
+Warning: Copper zone on layer B.Cu at (197.6649 mm, 65.1836 mm) has no pads connected.
+
+
+Info: Total warnings: 1, errors: 0.
