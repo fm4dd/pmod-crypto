@@ -12,6 +12,7 @@ The onboard I2C bus pull-up resistors can be enabled/disabled, using the DIP swi
 http://fpga.fm4dd.com/
 
 This design is registered under the OSHWA Open Source Hardware Self-Certification:
+
 <a href="https://certification.oshwa.org/jp000016.html"><img src="images/oshw-reg-jp000016.svg" style="width:100px; vertical-align: middle"></a>
 
 ### Schematic
